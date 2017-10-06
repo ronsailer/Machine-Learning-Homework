@@ -1,0 +1,17 @@
+Avg_Residancy_Altitude
+Avg_government_satisfaction
+Avg_monthly_expense_on_pets_or_plants
+Avg_monthly_household_cost
+Avg_size_per_room
+Financial_agenda_matters
+Last_school_grades
+Married
+Most_Important_Issue
+Occupation
+Overall_happiness_score
+Phone_minutes_10_years
+Political_interest_Total_Score
+Weighted_education_rank
+Will_vote_only_large_party
+Yearly_ExpensesK
+Yearly_IncomeK
